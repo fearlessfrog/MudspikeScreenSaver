@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MudspikeScreenSaver", "ScreenSaver\MudspikeScreenSaver.csproj", "{C79DC106-23F3-4FA7-BA69-6B8684C4AD9F}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MudspikeScreenSaverInstaller", "MudspikeScreenSaverInstaller\MudspikeScreenSaverInstaller.vdproj", "{F6652835-E44C-4B01-9303-DF8EF594B4C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -15,6 +17,9 @@ Global
 		{C79DC106-23F3-4FA7-BA69-6B8684C4AD9F}.Debug|x86.Build.0 = Debug|x86
 		{C79DC106-23F3-4FA7-BA69-6B8684C4AD9F}.Release|x86.ActiveCfg = Release|x86
 		{C79DC106-23F3-4FA7-BA69-6B8684C4AD9F}.Release|x86.Build.0 = Release|x86
+		{F6652835-E44C-4B01-9303-DF8EF594B4C3}.Debug|x86.ActiveCfg = Debug
+		{F6652835-E44C-4B01-9303-DF8EF594B4C3}.Release|x86.ActiveCfg = Release
+		{F6652835-E44C-4B01-9303-DF8EF594B4C3}.Release|x86.Build.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
